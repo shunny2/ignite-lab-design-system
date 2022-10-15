@@ -37,6 +37,11 @@ First, start by cloning the repository:
 git clone https://github.com/shunny2/ignite-lab-design-system
 ```
 
+Install project dependencies:
+```bash
+npm install
+```
+
 Run the project:
 ```bash
 npm run dev
