@@ -15,7 +15,8 @@
 ![ignite-lab](https://user-images.githubusercontent.com/72872854/195959122-706ce769-c55e-4be3-987e-17d4b905280a.png)
 
 ## About Application
-This project was developed during Rocketseat's Ignite Lab event. The project includes React, Storybook, tests, and more.
+
+This project was developed during Rocketseat's Ignite Lab event. The goal is to make a complete documentation of the components and tokens created in Figma. The project includes React, Storybook, Figma, tests and more.
 
 A production version is available at: [https://shunny2.github.io/ignite-lab-design-system/](https://shunny2.github.io/ignite-lab-design-system/)
 
